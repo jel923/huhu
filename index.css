@@ -1,0 +1,149 @@
+body{
+    background-image: url(html.picturs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body{
+    height:500px;
+    width: 30%;
+    background-color: #764fa1;
+    margin-left: 35%;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 30px;
+    opacity: 60%;
+}
+
+.text2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+
+.text3{
+    font-family: tahoma;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-top: 30px;
+    
+}
+
+.user{
+    font-family: tahoma;
+    color: white;
+    padding-top: 30px;
+    font-size: 18px; 
+    float: left;
+    padding-left: 42px;
+      
+}
+
+.username{
+    width: 83%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 20px;
+    border-radius: 15px;
+   
+    border-color: navy ;
+}
+
+.pass{
+    font-family: tahoma;
+    color: white;
+    padding-top: 15px;
+    padding-left: 42px ;
+    font-size: 18px; 
+    float: left;  
+}
+
+.password{
+    width: 83%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 20px;
+    border-radius: 15px;
+   
+    border-color: navy ;
+}
+
+button{
+    width: 90%;
+    height: 35px;
+    background-color:  rgb(37, 99, 245) ;
+    margin-top: 80px;
+    margin-left: 115px;
+    font-family: tahoma;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.text4{
+    font-family: calibri;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 100;
+    color: white;
+    padding-top: 10px;
+}
+
+button:hover{
+    background-color: white;
+    color: rgb(37, 99, 245);
+    border-color: rgb(37, 99, 245);
+}
+
+a:hover{
+    color: lightblue;
+}
+
+.name{
+    font-family: tahoma;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px ;
+    font-size: 12px;   
+}
+
+.name2{
+    width: 83%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border-style: double;
+    border-color: navy ;
+}
+
+.email{
+    font-family: tahoma;
+    color: white;
+    padding-top: 15px;
+    padding-left: 30px ;
+    font-size: 12px;   
+}
+
+.email2{
+    width: 83%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border-style: double;
+    border-color: navy ;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: tahoma;
+}
